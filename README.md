@@ -1,30 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Product Comparison</title>
-<style>
-table {
-width: 80%;
-margin: 20px auto;
-border-collapse: collapse;
-}
-table, th, td {
-border: 1px solid black;
-}
-th, td {
-padding: 10px;
-text-align: center;
-}
-caption {
-font-size: 1.5em;
-margin-bottom: 10px;
-}
-ul {
-list-style-type: disc;
-margin-left: 20px;
-}
 </style>
 </head>
 <body>
